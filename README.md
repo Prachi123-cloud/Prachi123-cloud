@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prachi123-cloud
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prachi
+- 👀 I’m interested in Coding and Web development.
+- 🌱 I’m currently exploring Cyber Security and Cloud computing field.
+- 💞️ I’m looking to collaborate with other creator.
+- 📫 How to reach me.. 
 
 <!---
 Prachi123-cloud/Prachi123-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
